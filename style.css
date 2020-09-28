@@ -1,0 +1,51 @@
+body{
+    margin: 0px 0px;
+    padding:0;
+}
+header h1{
+    background-color: aquamarine;
+    margin:0px;
+    padding: 0px 0px 30px 0px;
+}
+
+nav h2{
+    background-color:tomato;
+    margin: 0px;
+    padding: 0px 0px 30px 0px;
+}
+section{
+    background-color: yellow;
+    padding:20px;
+    width: 70%;
+    display: inline-block;
+    height: 100%;
+}
+article{
+    background-color: orange;
+    margin: 5px;
+}
+article h3{
+    background-color: orange;
+    padding: 0px;
+    margin: 0px;
+}
+article P{
+    background-color: orange;
+    padding: 0px;
+    margin: 0px;
+}
+
+aside{
+    display: inline-block;
+    background-color: palegoldenrod;
+    height: 135px;
+    width: 26%;
+    vertical-align: top;
+}
+aside h2{
+    margin: 0px;
+}
+footer{
+    background-color: aqua;
+    padding-bottom: 40px;
+}
